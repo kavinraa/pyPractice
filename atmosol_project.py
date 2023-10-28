@@ -57,4 +57,6 @@ username = "standard_user"
 password = "secret_sauce"
 
 a = atmosol()
+b = atmosol()
+c = atmosol()
 a.test()
