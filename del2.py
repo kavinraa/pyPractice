@@ -1,2 +1,3 @@
-def del():
-	return 0
+def New():
+    return 0
+
